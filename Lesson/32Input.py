@@ -1,0 +1,7 @@
+name = input("First name : ")
+last_name = input("last name : ")
+print("Hello ", name, last_name)
+FirstDigit = input("Enter first digit : ")
+SecondDigit = input("Enter second digit : ")
+Sum = int(FirstDigit) + int(SecondDigit)
+print("Sum is : ", Sum)

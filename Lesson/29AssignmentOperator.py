@@ -9,6 +9,6 @@ money = money + 10    # money += 10
 print(money)
 
 money2 = 100
-money2 -= 20    # money2 -= 20
-money2 += 10    # money2 += 10
+money2 -= 20    # money2 = money2 - 20
+money2 += 10    # money2 = money2 + 10
 print(money2)
